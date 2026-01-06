@@ -1,0 +1,13 @@
+#include<stdio.h.
+int main(){
+  int arr[5],i;
+  pf("enter an array");
+  for(i=0;i<5;j++){
+    sf("%d",&arr[i]);
+    }
+  pf("you enteres");
+  for(i=0;i<5;i++)
+    {
+    pf("%d",arr[i]);
+    }
+  }
